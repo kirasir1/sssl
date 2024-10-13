@@ -27,3 +27,4 @@
 ![изображение](https://github.com/user-attachments/assets/77042621-de5d-4f06-8f4e-d547031f1ad6)
 ## Web shell атаки
 ![изображение](https://github.com/user-attachments/assets/2dba5c5c-8067-4bc6-bfe2-fcc60da9731b)
+![изображение](https://github.com/user-attachments/assets/c2f025ed-1ad0-40c0-bd57-d7d95e64db95)
