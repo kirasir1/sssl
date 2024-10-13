@@ -10,3 +10,5 @@
 ## Развернуть агента
 ![изображение](https://github.com/user-attachments/assets/c8350227-5f01-4d2f-967f-60690acd46a0)
 ![изображение](https://github.com/user-attachments/assets/9a222116-9f78-4bc6-af3e-ab84cfaa6b5c)
+## Доступные меню сканирования
+![изображение](https://github.com/user-attachments/assets/908e13a8-21c3-4d08-b5fb-f74dc88f0f3e)
