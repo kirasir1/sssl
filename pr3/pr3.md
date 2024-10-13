@@ -12,3 +12,8 @@
 ![изображение](https://github.com/user-attachments/assets/9a222116-9f78-4bc6-af3e-ab84cfaa6b5c)
 ## Доступные меню сканирования
 ![изображение](https://github.com/user-attachments/assets/908e13a8-21c3-4d08-b5fb-f74dc88f0f3e)
+## Проверка целостности файлов
+![изображение](https://github.com/user-attachments/assets/3c74b6ef-be67-44d1-b6af-ef1245aeecda)
+## Выявление уязвимостей
+![изображение](https://github.com/user-attachments/assets/7acfed1d-9f47-4e41-bec4-56209c77d22a)
+![изображение](https://github.com/user-attachments/assets/64ad2c20-e218-4323-9ebb-126eaf98a042)
