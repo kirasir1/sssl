@@ -7,3 +7,6 @@
 ## Развернуть сервер Wazuh
 ![изображение](https://github.com/user-attachments/assets/e1da6b6e-7a6b-45db-ac12-045ee0ba0730)
 ![изображение](https://github.com/user-attachments/assets/c7ddfc91-be89-4044-974d-e1d5f732d9c1)
+## Развернуть агента
+![изображение](https://github.com/user-attachments/assets/c8350227-5f01-4d2f-967f-60690acd46a0)
+![изображение](https://github.com/user-attachments/assets/9a222116-9f78-4bc6-af3e-ab84cfaa6b5c)
