@@ -17,3 +17,13 @@
 ## Выявление уязвимостей
 ![изображение](https://github.com/user-attachments/assets/7acfed1d-9f47-4e41-bec4-56209c77d22a)
 ![изображение](https://github.com/user-attachments/assets/64ad2c20-e218-4323-9ebb-126eaf98a042)
+![изображение](https://github.com/user-attachments/assets/2ede6f74-27aa-4cb2-8089-a5e2f8046888)
+## Выявление скрытых процессов
+![изображение](https://github.com/user-attachments/assets/422f9939-11b3-454d-875e-928a561ecd4c)
+![изображение](https://github.com/user-attachments/assets/7cbba8eb-ddad-411f-a4db-1b0e12385c73)
+## SQL инъекция
+![изображение](https://github.com/user-attachments/assets/61608a28-7610-43be-b79e-de64173e0bab)
+![изображение](https://github.com/user-attachments/assets/a5eb8236-81cd-47ff-9b5f-561d8bf4a0a8)
+![изображение](https://github.com/user-attachments/assets/77042621-de5d-4f06-8f4e-d547031f1ad6)
+## Web shell атаки
+![изображение](https://github.com/user-attachments/assets/2dba5c5c-8067-4bc6-bfe2-fcc60da9731b)
