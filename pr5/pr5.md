@@ -1,7 +1,14 @@
 # Практика №5
 ## Инфраструктура
-Для выполнения работы были развернуты несколько контейнеров:
-![изображение](https://github.com/user-attachments/assets/1dae2bf1-62d0-44e4-b690-580c6a3e7a0f)
+Для выполнения работы были развернуты несколько виртуальных машин:
+- ВМ с уязвимым приложением ![изображение](https://github.com/user-attachments/assets/59867b3d-a4f0-4484-b2b6-5326058e1907)
+- ВМ для проведения атак и сканирования
+
 ## Уязвимое приложение
-Для проверки на уязвимости был поднят контейнер с OWASP Juice Shop
-![изображение](https://github.com/user-attachments/assets/069f1d34-074a-4139-9cd5-90e2dc6737c2)
+Для проверки на уязвимости было поднято приложение OWASP Juice Shop, на котором можно удобно отработать все атаки
+![изображение](https://github.com/user-attachments/assets/027b5123-3b95-4ad4-9463-33dbb11db783)
+Также на нем запущен Suricata
+![изображение](https://github.com/user-attachments/assets/64d4719c-ad82-44d8-b3a4-03c18236de92)
+## Вторая ВМ
+Был развернут Wazuh
+![изображение](https://github.com/user-attachments/assets/8b9b3c21-63b2-424b-93f9-c36e0709462c)
