@@ -12,3 +12,11 @@
 ## Вторая ВМ
 Был развернут Wazuh
 ![изображение](https://github.com/user-attachments/assets/8b9b3c21-63b2-424b-93f9-c36e0709462c)
+![изображение](https://github.com/user-attachments/assets/bfd0f68b-4742-45f2-b274-f1c9fad4ea38)
+Также установлен сканер уязвимостей Nessus, запущенная задача сканирования:
+![изображение](https://github.com/user-attachments/assets/1baaa72a-9b8f-48d4-94bf-7de719d2ad26)
+Запущен скан через Yara с помощью набора правил для поиска web угроз:
+![изображение](https://github.com/user-attachments/assets/9893c3ba-bb54-4b13-8107-725246e82960)
+В выборку Suricata попалась атака SQL Injection:
+![изображение](https://github.com/user-attachments/assets/ccbca492-6039-4548-9855-9dca7a96fb45)
+Для предотвращения атаки необходимо как минимум настроить экранирование специальных символов и проверить бизнес логику приложения.
